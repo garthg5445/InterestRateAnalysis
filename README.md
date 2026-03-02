@@ -1,5 +1,5 @@
 # InterestRateAnalysis
-This project analyzes over 60 years of monthly U.S. Federal interest rate and inflation data using Python.
+This project analyzes over 60 years of monthly U.S. Federal interest/inflation rate data using Python, data was obtained from Kagle.
 
 The goal was to quantify variability, detect structural patterns, and model regime behavior using probabilistic and statistical tools.
 
